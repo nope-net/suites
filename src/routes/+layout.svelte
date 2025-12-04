@@ -19,7 +19,7 @@
 				</a>
 
 				<nav class="flex items-center gap-4 text-sm">
-					<a href="https://nope.net/docs" class="text-zinc-600 hover:text-zinc-900">Docs</a>
+					<a href="https://docs.nope.net" class="text-zinc-600 hover:text-zinc-900">Docs</a>
 					<a href="https://nope.net" class="text-zinc-600 hover:text-zinc-900">Home</a>
 				</nav>
 			</div>
